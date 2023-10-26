@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lumiaqian&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true" alt="Lumiaqian's github stats" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lumiaqian&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" alt="Lumiaqian's github stats" />
       </a>
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lumiaqian&layout=compact&hide_border=true&langs_count=10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=tokyonight&hide_border=true" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lumiaqian&layout=compact&hide_border=true&langs_count=10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" />
       </a>
     </td>
 </tr>
