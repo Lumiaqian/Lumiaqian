@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lumiaqian&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true" alt="Lumiaqian's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lumiaqian&layout=compact&hide_border=true&langs_count=10&theme=tokyonight&hide_border=true" /></a> | <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Lumiaqian&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="Lumiaqian's github activity graph" /></a> | 
-| ------------- | ------------- |
+| | |
+|:--:|:--:|
+| ![Lumiaqian's github stats](https://github-readme-stats.vercel.app/api?username=Lumiaqian&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true) | ![Lumiaqian's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Lumiaqian&layout=compact&hide_border=true&langs_count=10&theme=tokyonight&hide_border=true) |
+| ![Lumiaqian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lumiaqian&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true) | |
+
